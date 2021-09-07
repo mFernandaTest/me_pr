@@ -4,3 +4,4 @@
 * Canada
 * España
 * Francia
+* Peru
