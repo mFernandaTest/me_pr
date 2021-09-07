@@ -3,3 +3,4 @@
 * Arica
 * Iquique
 * Temuco
+* Punta arenas
