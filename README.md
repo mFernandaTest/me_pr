@@ -3,7 +3,4 @@
 ## Hola Mundo
 
 ### Desde el repositorio original!!
-## Se borro
-## A
-## B
-## c
+## Se borro Aaaaaahhh
